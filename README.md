@@ -1,6 +1,6 @@
 <p align="center"><img src="./header.png" width=80% /></p>
  <h1 align="center">不会大数据的啊biu</h1>
-</marquee><p align="center"><img src="https://img-blog.csdnimg.cn/f7384c88956d4378b72e47548e19c9f8.gif" alt="f7384c88956d4378b72e47548e19c9f8.gif" width="100" /></p><p align="center">
+</marquee><p align="center"><img src="./cat.gif" alt="./cat.gif" width="100" /></p><p align="center">
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kingtle&label=Profile%20views&color=0e75b6&style=flat" alt="kingtle" /> </p>
 
