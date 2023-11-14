@@ -9,7 +9,7 @@
 <h3 align="center">联系我</h3>
 <p align="center">
  <a href="https://kaggle.com/king12138" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="king12138" height="40" width="50" /></a>
- <a href="https://www.leetcode.com/machineking" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="machineking" height="40" width="50" /></a>
+ <a href="https://www.leetcode.cn/u/machineking" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="machineking" height="40" width="50" /></a>
 </p>
 <h3 align="center">技术栈<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 
